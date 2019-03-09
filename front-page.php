@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>patrick r. shevlin</title> 
+		<title>on the concept of 🔥🔥🔥🔥🔥</title> 
 	</head>
 
 
@@ -47,11 +47,12 @@ this theme is free, do what ever you want with it. this is a bare bones word pre
 
 <body>
 	
-<p><span style="color:#80ff00;"><span style="font-size:115px;"><span style="font-family:lucida sans unicode,lucida grande,sans-serif;">patrick r. shevlin <a href="https://github.com/patrickrshevlin/on-the-concept-of-" target="blank">🔥</a></span></span></span></p>
+<p><span style="color:#80ff00;"><span style="font-size:115px;"><span style="font-family:lucida sans unicode,lucida grande,sans-serif;">on the concept of 🔥🔥🔥🔥🔥<a href="https://github.com/patrickrshevlin/on-the-concept-of-" target="blank">🔥</a></span></span></span></p>
 
-<p><span style="font-family:lucida sans unicode,lucida grande,sans-serif;">i am an artist, i make both physical and digital work.  i can also be found <a href="https://www.instagram.com/shevlin.patrick/" target="blank">here</a> and <a href="https://www.youtube.com/channel/UCMByinCUGdIz4mKzlKDbbow" target="blank">here</a>.<br/>  in the past i have worked with <a href="https://www.kellylorrainehendrickson.com/" target="blank">kelly lorraine hendrickson</a>.</span></p>
+<p><span style="font-family:lucida sans unicode,lucida grande,sans-serif;">THIS IS A PARAGRAPH.<a href="www.patrickrshevlin.com" target="blank">THIS IS A LINK</a> and <a href="https://www.youtube.com/channel/UCMByinCUGdIz4mKzlKDbbow" target="blank">ANOTHA ONE/a>.<br/>
+	</span></p>
 <p>
-	<span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><a href="https://patrickrshevlin.com/wp-content/uploads/2019/03/CV.pdf" target="blank">cv</a></span>
+	<span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><a href="https://patrickrshevlin.com/" target="blank">PUT YOUR CLICKS HERE</a></span>
 </p>
 
 </body>
