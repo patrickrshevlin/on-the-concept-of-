@@ -1,2 +1,2 @@
 <?php
-// Silence is golden.
+//we must know everything 🍄
